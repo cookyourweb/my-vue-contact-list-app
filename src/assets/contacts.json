@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "phoneNumber": [
+        "666111999"
+      ],
+      "email": [
+        "ana.arriate@klikin.com"
+      ],
+      "firstname": "Ana",
+      "lastname": "Arriaga"
+    },
+    {
+      "id": 2,
+      "phoneNumber": [
+        "913123333"
+      ],
+      "email": [
+        "antonio.lorenzo@klikin.com"
+      ],
+      "firstname": "Antonio",
+      "lastname": "Lorenzo"
+    },
+    {
+      "firstname": "Veronica",
+      "email": "verserper@gmail.com",
+      "id": 3
+    },
+    {
+      "firstname": "dd",
+      "email": "dd",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "vuejs"
+  }
+}
